@@ -36,6 +36,9 @@ header {
     padding-top: 10px;
     padding-bottom: 40px;
 }
+.banner-image img{
+    width: 100%;
+}
 .banner-section{
     display: flex;
     gap: 20px;
@@ -322,4 +325,6 @@ button p{
   .form textarea{
     font-size: 22px;
     padding:10px 15px ;
+    border: none;
   }
+
